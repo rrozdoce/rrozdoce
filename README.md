@@ -2,6 +2,7 @@
 ##     🎓I'm computer science student in UEMS, Brazil.
 ##     📊I like to learn new things
 ##     🙎‍♂️ i can speak english
+##     🎮 i like to play games and watch animes 
 
 <div align="center">
   <a href="https://github.com/rrozdoce">
@@ -9,7 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrozdoce&layout=compact&langs_count=7&theme=dracula"/)>
 </div>
 <div style="display: inline_block"><br>
-  ## Languages and tools that i used:
   <img align="center" alt="rroz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="rroz-C++" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg">
   <img align="center" alt="rroz-javaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
