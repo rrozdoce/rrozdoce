@@ -1,10 +1,14 @@
-##    I'm developer 
-##    I'm computer science student in UEMS, Brazil.
+##     💻I'm developer 
+##     🎓I'm computer science student in UEMS, Brazil.
+##     📊I like to learn new things
+##     🙎‍♂️ i can speak english
+
 <div align="center">
   <a href="https://github.com/rrozdoce">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rrozdoce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/)>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrozdoce&layout=compact&langs_count=7&theme=dracula"/)>
 </div>
+# Languages and tools that i used:
 <div style="display: inline_block"><br>
   <img align="center" alt="rroz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="rroz-C++" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg">
