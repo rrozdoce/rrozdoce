@@ -1,4 +1,5 @@
-##     Oii,meu nome é Felipe Echeverria Vilhalva e sou estudante de ciência da computação na UEMS, aqui voce encontrará alguns dos meus projetos da faculdade e fora dela tbm :)
+##    I'm developer 
+##    I'm computer science student in UEMS, Brazil.
 <div align="center">
   <a href="https://github.com/rrozdoce">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rrozdoce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/)>
