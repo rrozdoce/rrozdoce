@@ -1,5 +1,5 @@
-##     💻I'm developer 
-##     🎓I'm computer science student in UEMS, Brazil.
+#     💻I'm developer 
+#     🎓I'm computer science student in UEMS, Brazil.
 ##     📊I like to learn new things
 ##     🙎‍♂️ i can speak english
 ##     🎮 i like to play games and watch animes 
