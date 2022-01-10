@@ -27,4 +27,5 @@
   <div> 
   <a href="https://www.instagram.com/felipevilhalva/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/felipe-echeverria-311a53216/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://rrozdoce.github.io/Curriculo-curriculum/">My Portifolio</a>
 </div>
