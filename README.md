@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Felipe Echeverria Vilhalva</h1>
+  <h2>Science Computer Student</h2>
 </div>
 <div align="left">
   <a href="https://github.com/rrozdoce">
