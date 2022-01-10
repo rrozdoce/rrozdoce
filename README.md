@@ -20,6 +20,7 @@
   <img align="center" alt="rroz-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
     <img align="right" alt="rroz-pic"  height="150px" style="border-radius:50px;" src="https://media3.giphy.com/media/12J32T2Ghb2G1q/giphy.gif?cid=ecf05e47thvyq2bkz4yeaq0y22bxy0sxpyidlnml8qu7doyb&rid=giphy.gif&ct=g">
 </div>
+  ##
   <div> 
   <a href="https://www.instagram.com/felipevilhalva/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/felipe-echeverria-311a53216/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
