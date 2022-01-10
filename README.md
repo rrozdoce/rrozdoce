@@ -30,7 +30,7 @@
     <a href="https://rrozdoce.github.io/Curriculo-curriculum/" target="_blank"><img
   src="https://cdn-icons.flaticon.com/png/512/3476/premium/3476457.png?token=exp=1641801933~hmac=c8b079b079610b226e9d9ffe76b038d8"
   alt=""
-  width="20px"
-  height="20px"                                                                          
+  width="60px"
+  height="60px"                                                                          
 /></a>
 </div>
