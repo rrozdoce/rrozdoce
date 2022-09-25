@@ -61,7 +61,7 @@
 [![WINDOWS10](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rrozdoce)
 [![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/rrozdoce)
 [![COREI3](https://img.shields.io/badge/Intel-Core_i3_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/rrozdoce)
-[![RX570 4GB](https://img.shields.io/badge/RX-570-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/rrozdoce)
+[![RX570 4GB](https://img.shields.io/badge/RX-570-FF0000?style=for-the-badge&logo=RX&logoColor=white)](https://github.com/rrozdoce)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
