@@ -22,7 +22,7 @@
 ### Main skills:
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=java)
 [![HIBERNATE](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://github.com/rrozdoce)
-[![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117)](https://github.com/rrozdoce)
+[![SpringBoot](https://img.shields.io/badge/-SpringBoot-5b5b5b?style=for-the-badge&logo=springboot&labelColor=5b5b5b&textColor=01ff20)](https://github.com/rrozdoce)
 [![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/rrozdoce)
 [![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)](https://github.com/rrozdoce)
  
