@@ -40,7 +40,7 @@
 [![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=tailwindcss)
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/rrozdoce)
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)](https://github.com/rrozdoce)
-[![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)](https://github.com/rrozdoce)
+[![Figma](https://img.shields.io/badge/-figma-ffa500?style=for-the-badge&logo=figma&labelColor=white)](https://github.com/rrozdoce)
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&labelColor=0D1117&textColor=0D1117)](https://github.com/rrozdoce)
   
 ### Studying in this moment:
