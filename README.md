@@ -63,6 +63,8 @@
 [![COREI3](https://img.shields.io/badge/Intel-Core_i3_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/rrozdoce)
 [![RX570 4GB](https://img.shields.io/badge/RX-570-FF0000?style=for-the-badge&logo=RX&logoColor=white)](https://github.com/rrozdoce)
 
+<p><a href="https://ko-fi.com/felipevilhalva"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="felipevilhalva"/></a></p><br><br>
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rrozdoce}/count.svg" /></p> 
