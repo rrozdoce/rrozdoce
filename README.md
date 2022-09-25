@@ -45,14 +45,6 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
- <!-- Spotify Now Playing Card https://github.com/novatorem/novatorem -->
-<div align="center">
-  <a href="https://open.spotify.com/user/felipefelipevilhalva">
-    <img src="https://spotify-now-playing-felipefelipevilhalva.vercel.app/api/spotify?background_color=181413&border_color=ffffff" alt="Spotify now playing felipefelipevilhalva"/>
-  </a>
-</div>
- 
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rrozdoce}/count.svg" /></p> 
