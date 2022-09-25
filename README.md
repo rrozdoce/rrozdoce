@@ -21,16 +21,16 @@
  
 ### Main skills:
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=java)
-[![HIBERNATE](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
-![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+[![HIBERNATE](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://github.com/rrozdoce)
+[![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117)](https://github.com/rrozdoce)
+[![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/rrozdoce)
+[![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)](https://github.com/rrozdoce)
  
 ### Tools:
 [![VISUALSTUDIO](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
-![Eclipse IDE](https://img.shields.io/badge/-eclipse-0D1117?style=for-the-badge&logo=eclipse&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+[![Eclipse IDE](https://img.shields.io/badge/-eclipse-0D1117?style=for-the-badge&logo=eclipse&labelColor=0D1117&textColor=0D1117)](https://github.com/rrozdoce)
+[![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)](https://github.com/rrozdoce)
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/rrozdoce)
 [![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/rrozdoce)
 
 ### Other Knowledge:
@@ -40,8 +40,8 @@
 [![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=tailwindcss)
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/rrozdoce)
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)](https://github.com/rrozdoce)
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&labelColor=0D1117&textColor=0D1117)&nbsp;
+[![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)](https://github.com/rrozdoce)
+[![VirtualBox](https://img.shields.io/badge/-VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&labelColor=0D1117&textColor=0D1117)](https://github.com/rrozdoce)
   
 ### Studying in this moment:
 [![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117)](https://github.com/rrozdoce)
