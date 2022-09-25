@@ -48,7 +48,7 @@
  <!-- Spotify Now Playing Card https://github.com/novatorem/novatorem -->
 <div align="center">
   <a href="https://open.spotify.com/user/felipefelipevilhalva">
-    <img src="https://spotify-now-playing-felipefelipevilhalva.vercel.app/api/spotify?background_color=181413&border_color=ffffff)" alt="Spotify now playing felipefelipevilhalva"/>
+    <img src="https://spotify-now-playing-felipefelipevilhalva.vercel.app/api/spotify?background_color=181413&border_color=ffffff" alt="Spotify now playing felipefelipevilhalva"/>
   </a>
 </div>
  
