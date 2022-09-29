@@ -34,12 +34,12 @@
 [![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/rrozdoce)
 
 ### Other Knowledge:
+[![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/rrozdoce)
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)](https://github.com/rrozdoce)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=html)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=css)
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=sass)
 [![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=tailwindcss)
-[![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/rrozdoce)
-[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)](https://github.com/rrozdoce)
 [![Figma](https://img.shields.io/badge/-figma-ffa500?style=for-the-badge&logo=figma&labelColor=ffa500)](https://github.com/rrozdoce)
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&labelColor=0D1117&textColor=0D1117)](https://github.com/rrozdoce)
   
@@ -59,6 +59,7 @@
  # Specs:
  
 [![WINDOWS10](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rrozdoce)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/rrozdoce)
 [![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/rrozdoce)
 [![COREI3](https://img.shields.io/badge/Intel-Core_i3_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/rrozdoce)
 [![RX570 4GB](https://img.shields.io/badge/RX-570-FF0000?style=for-the-badge&logo=RX&logoColor=white)](https://github.com/rrozdoce)
