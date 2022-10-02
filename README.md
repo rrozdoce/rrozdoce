@@ -24,6 +24,8 @@
 [![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/rrozdoce)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=java)
 [![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)](https://github.com/rrozdoce)
+[![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/rrozdoce)
+[![Npm](https://img.shields.io/badge/npm-fff?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/rrozdoce)
 [![HIBERNATE](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://github.com/rrozdoce)
 
 ### Tools:
@@ -49,6 +51,7 @@
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)](https://github.com/rrozdoce)
 [![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/rrozdoce)
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/rrozdoce)
+[![Npm](https://img.shields.io/badge/npm-fff?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/rrozdoce)
  
  ## Operation Systems:
 
