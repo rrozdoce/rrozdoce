@@ -41,7 +41,6 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=css)
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=sass)
 [![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=tailwindcss)
-[![Figma](https://img.shields.io/badge/-figma-ffa500?style=for-the-badge&logo=figma&labelColor=ffa500)](https://github.com/rrozdoce)
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&labelColor=0D1117&textColor=0D1117)](https://github.com/rrozdoce)
   
 ### Studying in this moment:
