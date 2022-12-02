@@ -44,9 +44,6 @@
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&labelColor=0D1117&textColor=0D1117)](https://github.com/rrozdoce)
   
 ### Studying in this moment:
-[![SpringBoot](https://img.shields.io/badge/-SpringBoot-5b5b5b?style=for-the-badge&logo=springboot&labelColor=5b5b5b&textColor=01ff20)](https://github.com/rrozdoce)
-[![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/rrozdoce)
-[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)](https://github.com/rrozdoce)
 [![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/rrozdoce)
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/rrozdoce)
 [![Npm](https://img.shields.io/badge/npm-fff?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/rrozdoce)
