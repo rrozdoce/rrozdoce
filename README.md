@@ -22,7 +22,7 @@
 ### Main skills:
 [![SpringBoot](https://img.shields.io/badge/-SpringBoot-5b5b5b?style=for-the-badge&logo=springboot&labelColor=5b5b5b&textColor=01ff20)](https://github.com/rrozdoce)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=java)
-[![Python](https://img.shields.io/badge/python-ED8B00?style=for-the-badge&logo=python&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=python))
+[![Python](https://img.shields.io/badge/python-ED8B00?style=for-the-badge&logo=python&logoColor=white)](https://github.com/rrozdoce?tab=repositories&language=python)
 [![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)](https://github.com/rrozdoce)
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/rrozdoce)
 [![Npm](https://img.shields.io/badge/npm-fff?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/rrozdoce)
