@@ -59,9 +59,9 @@
  
 [![WINDOWS10](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rrozdoce)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/rrozdoce)
-[![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/rrozdoce)
-[![COREI3](https://img.shields.io/badge/Intel-Core_i3_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/rrozdoce)
-[![RX570 4GB](https://img.shields.io/badge/RX-570-FF0000?style=for-the-badge&logo=RX&logoColor=white)](https://github.com/rrozdoce)
+[![RAM](https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/rrozdoce)
+[![COREI3](https://img.shields.io/badge/Ryzen-7-5700U-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/rrozdoce)
+[![RX570 4GB](https://img.shields.io/badge/Vega-8-FF0000?style=for-the-badge&logo=RX&logoColor=white)](https://github.com/rrozdoce)
 
 <p><a href="https://ko-fi.com/felipevilhalva"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="felipevilhalva"/></a></p><br><br>
 
